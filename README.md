@@ -1,0 +1,2 @@
+# HISTORY-ARCHIV
+Suicide worker
